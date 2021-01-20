@@ -1,0 +1,23 @@
+{
+  "name": "compraventa_app",
+  "version": "1.0.0",
+  "description": "App de venta y compra online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasniel1408/compraventa_app.git"
+  },
+  "author": "Yasniel y Adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasniel1408/compraventa_app/issues"
+  },
+  "homepage": "https://github.com/yasniel1408/compraventa_app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
